@@ -1,4 +1,4 @@
-# 🔴 Anderson Felipe
+# 🛡️🔓 Anderson Felipe
 ### Offensive Security Student | Web & Application Security
 
 🎯 Estudante de **Segurança da Informação** com foco em **Pentest e Segurança de Aplicações Web**.  
@@ -102,8 +102,8 @@ Busco uma oportunidade de **estágio ou posição júnior em cibersegurança**, 
 
 ## 🔗 Links
 
-- 💼 LinkedIn: https://linkedin.com/in/andysecshield  
-- 📧 Email: andysecshield@outlook.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andysecshield)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](email:andysecshield@outlook.com)
 
 ---
 
